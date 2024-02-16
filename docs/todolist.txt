@@ -1,0 +1,12 @@
+-main node module changed part
+!!!- changed node module1. 
+  1. @ensdomains
+    1.1 ens
+    1.2 eth-ens-namehash
+    1.3 react-ens-address
+    1.4 ui
+    /src/ens.js - 70 line - address change
+    /react-ens-address/node_modules/@ens_domains/ui/src/ens.js - 70 line
+  2. src
+    2.1 apollo
+    src/apollor/apolloClient.js - line 25
